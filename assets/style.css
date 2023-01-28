@@ -76,3 +76,8 @@ footer a {
     color:rgb(107, 15, 236);
 }
 
+section {
+    padding: 60px;
+    background-image: url(../images/hero-bg.jpg);
+}
+
