@@ -1,3 +1,17 @@
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(107, 15, 236)
 }
+
+/* header styling below */
+/* when using padding 20px = (top, right, bottom, and left) */
+/* 20px 35px = (20px top and bottom & 35px left and right) */
+/* padding can also be explicit */
+header {
+    padding: 20px 35px;
+    background-color: gold;
+}
+
+/* padding refers to spacing inside the box */
+/* Border refers to the outside edge of the padding within the margin */
+/* Margin refers to the outermost layer of the box */
