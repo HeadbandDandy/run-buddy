@@ -1,3 +1,11 @@
+
+/* acts as default styling element */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color:rgb(107, 15, 236)
@@ -21,8 +29,25 @@ header h1 {
     font-size: 40px;
     color:rgb(107, 15, 236);
     margin: 0;
+    display: inline;
 }
 
 header a {
+    text-decoration: none;
     color: rgb(107, 15, 236);
+}
+
+header nav {
+    float: right;
+    margin: 7px 0;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 24px;
 }
