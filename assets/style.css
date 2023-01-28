@@ -3,6 +3,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 
@@ -51,3 +52,27 @@ header nav ul li a {
     font-weight: lighter;
     font-size: 24px;
 }
+
+footer {
+    background: gold;
+    width: 100%;
+    padding: 40px 35px;
+}
+
+footer h2 {
+    display: inline;
+    color:rgb(107, 15, 236);
+    font-size: 30px;
+    margin: 0;
+}
+
+footer div {
+    float:inline-end;
+    line-height: 1.5;
+    text-align: right;
+}
+
+footer a {
+    color:rgb(107, 15, 236);
+}
+
