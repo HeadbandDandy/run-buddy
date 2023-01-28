@@ -15,3 +15,14 @@ header {
 /* padding refers to spacing inside the box */
 /* Border refers to the outside edge of the padding within the margin */
 /* Margin refers to the outermost layer of the box */
+
+header h1 {
+    font-weight: bold;
+    font-size: 40px;
+    color:rgb(107, 15, 236);
+    margin: 0;
+}
+
+header a {
+    color: rgb(107, 15, 236);
+}
