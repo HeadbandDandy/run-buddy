@@ -116,5 +116,23 @@ section {
 }
 
 .form-input {
-    
+    border: 1px solid black;
+    display: block;
+    padding: 7px 15px;
+    font-size: 16px;
+    color: gold;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.hero-form label {
+    margin: 0 10px;
+}
+
+.hero-form button {
+    color: gold;
+    background-color: black;
+    border: none;
+    padding: 15px 20px;
+    font-size: 20px;
 }
