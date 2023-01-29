@@ -97,8 +97,8 @@ section {
     border-width: 5px;
     border-color: rgb(107, 15, 236);
     position: absolute;
-    bottom: 0px;
-    right: 0px;
+    bottom: 120px;
+    right: 140px;
 }
 /* positioning is a CSS proprety that defines where the position of an element is on the page */
 /* static positions do not move */
