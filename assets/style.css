@@ -100,8 +100,21 @@ section {
     bottom: 120px;
     right: 140px;
 }
+
+.hero-form h3 {
+    font-size: 24px;
+    margin: 0;
+}
 /* positioning is a CSS proprety that defines where the position of an element is on the page */
 /* static positions do not move */
 /* relative positions align items top/bottom left/right */
 /* Absolute positions removes elements from the natural flow of the page and use top, bottom, left, and right */
 /* fixed positions remove elements from natural flow and position them relative to the viewport */
+
+.hero-form p {
+    margin: 5px 0 15px 0;
+}
+
+.form-input {
+    
+}
