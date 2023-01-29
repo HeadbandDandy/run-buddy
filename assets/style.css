@@ -87,3 +87,9 @@ section {
     background-position: center;
 }
 
+.hero-form {
+    background-color: gold;
+    padding: 20px;
+    width: 500px;
+    color:rgb(107, 15, 236);
+}
