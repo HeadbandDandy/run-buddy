@@ -156,6 +156,30 @@ section {
     background: gold;
 }
 
+.steps div {
+    margin-bottom: 80px;
+}
+
+.steps img {
+    width: 15%;
+    margin: 10px 0;
+}
+
+.steps h3 {
+    color:rgb(107, 15, 236);
+    font-size: 50px;
+    margin-top: 10px
+}
+
+.steps p {
+    color: black;
+    font-size: 25px;
+}
+
+.steps span {
+    font-size: 40px;
+}
+
 .section-title {
     font-size: 55px;
     color:rgb(107, 15, 236);
