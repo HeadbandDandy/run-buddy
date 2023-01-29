@@ -196,3 +196,27 @@ section {
 .secondary-border {
     border-color: rgb(107, 15, 236);
 }
+
+.trainers {
+    text-align: center;
+}
+
+.trainer {
+    width: 900px;
+    margin: 0 auto 30px auto;
+    background: black;
+    color: gold;
+    overflow: auto;
+    /* overflow sets an elements contents when it is too big to fit in a block/box */
+}
+
+.trainer img {
+    width: 35%;
+    float: left;
+}
+
+.trainer-bio {
+    padding: 35px;
+    float: left;
+    width: 65%;
+}
