@@ -9,7 +9,7 @@
 
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color:rgb(107, 15, 236)
+    color: black
 }
 
 /* header styling below */
@@ -28,14 +28,14 @@ header {
 header h1 {
     font-weight: bold;
     font-size: 40px;
-    color:rgb(107, 15, 236);
+    color:black;
     margin: 0;
     display: inline;
 }
 
 header a {
     text-decoration: none;
-    color: rgb(107, 15, 236);
+    color: black;
 }
 
 header nav {
@@ -61,7 +61,7 @@ footer {
 
 footer h2 {
     display: inline;
-    color:rgb(107, 15, 236);
+    color: black;
     font-size: 30px;
     margin: 0;
 }
@@ -73,7 +73,7 @@ footer div {
 }
 
 footer a {
-    color:rgb(107, 15, 236);
+    color:black;
 }
 
 section {
@@ -87,15 +87,17 @@ section {
     background-position: center;
     position: relative
 }
+/* secondary hero added below */
+
 
 .hero-form {
     background-color: gold;
     padding: 20px;
     width: 500px;
-    color:rgb(107, 15, 236);
+    color: black;
     border-style: solid;
     border-width: 5px;
-    border-color: rgb(107, 15, 236);
+    border-color: black;
     position: absolute;
     bottom: 120px;
     right: 140px;
@@ -145,7 +147,7 @@ section {
 
 .intro p {
     line-height: 2.0;
-    color:rgb(107, 15, 236);
+    color:black;
     width: 80%;
     font-size: 22px;
     margin: 0 auto;
@@ -166,7 +168,7 @@ section {
 }
 
 .steps h3 {
-    color:rgb(107, 15, 236);
+    color:black;
     font-size: 50px;
     margin-top: 10px
 }
@@ -182,7 +184,7 @@ section {
 
 .section-title {
     font-size: 55px;
-    color:rgb(107, 15, 236);
+    color:black;
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
     display: inline-block;
@@ -194,7 +196,7 @@ section {
 }
 
 .secondary-border {
-    border-color: rgb(107, 15, 236);
+    border-color: black;
 }
 
 .trainers {
@@ -278,7 +280,7 @@ section {
 }
 
 .contact-info h3 {
-    color:rgb(107, 15, 236);
+    color:black;
     font-size: 36px;
 }
 

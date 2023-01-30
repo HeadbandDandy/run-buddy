@@ -11,14 +11,14 @@
     border-bottom: 4px solid gold;
     padding: 0 80px 15px 80px;
     font-weight: normal;
-    font-size: 42px;
+    font-size: 50px;
     font-style: italic;
   }
   
   .secondary-content {
     width: 80%;
     margin: 0 auto;
-    color: gold;
+    color: black;
   }
   
   .secondary-content h3 {
@@ -37,6 +37,7 @@
   }
   
   .secondary-content li {
-    color: gold;
+    color: red;
+    font-size: 16px;
     margin: 10px 0;
   }
